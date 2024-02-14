@@ -1,0 +1,10 @@
+{
+    "name": "koen/symfony-cookbook",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Koen\\SymfonyCookbook\\": "src/"
+        }
+    },
+    "require": {}
+}
